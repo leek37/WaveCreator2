@@ -19,7 +19,7 @@ import SawToothBugCrawl
 
 -- use these variables for your collage size
 collageWidth = 192
-collageHeight = 128
+collageHeight = 240
 appTitle = "My App"
 -- depending on the state you can turn on and off typing
 allowTyping model = model.state /= NotTyping 
