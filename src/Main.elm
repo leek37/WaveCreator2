@@ -24,7 +24,7 @@ appTitle = "My App"
 -- depending on the state you can turn on and off typing
 allowTyping model = model.state /= NotTyping 
 -- depending on state you can turn on and off animation (the Tick message)
-isAnimating model = False 
+isAnimating model = True
 
 -- CONSTANTS
 
